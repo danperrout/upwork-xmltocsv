@@ -1,6 +1,8 @@
 # upwork-xmltocsv
 Upwork - Nota Fiscal Eletronica XML to CSV
 
+[![HitCount](https://hits.dwyl.com/Danperrout/upwork-xmltocsv.svg?style=flat)](http://hits.dwyl.com/Danperrout/upwork-xmltocsv)
+
 # Work Description
 
 Hello
