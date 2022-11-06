@@ -1,0 +1,28 @@
+{
+  "name": "upwork-xmltocsv",
+  "version": "1.0.0",
+  "description": "Get NFe (from Brazil) and export to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danperrout/upwork-xmltocsv.git"
+  },
+  "keywords": [
+    "xml",
+    "excel",
+    "csv",
+    "nfe"
+  ],
+  "author": "Daniel Perrout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danperrout/upwork-xmltocsv/issues"
+  },
+  "homepage": "https://github.com/danperrout/upwork-xmltocsv#readme",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
